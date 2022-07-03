@@ -61,19 +61,18 @@ True
 
 - **The behavior of intermediate layers in a FFN are simply specified by the training data**
 
-False
+
 
 - **Multilayer networks need to specify the kernel function**
 
-False
+
 
 - **Kernel functions first maps features in a different space and then evaluate the inner product**
 
-False
+
 
 - **In general, kernel machine suffer of high computational cost of training when the dataset is large**
 
-True, because their complexity is linear with the number of training examples
 
 - **Which of these sentences is true?**
 
