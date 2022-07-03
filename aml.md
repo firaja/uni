@@ -97,33 +97,31 @@ True, because their complexity is linear with the number of training examples
 
 - **A SVM can be trained by solving a system of equations while a neural network can always be trained by using convex optimization**
 
-Partially true
 
-_First part is true, second part is false_
 
 - **A neural network can be trained by solving a system of equations**
 
-False
+
 
 - **Sparse representations seem to be more beneficial than dense representations**
 
-True
+
 
 **In a neural network the nonlinearity causes the most interesting loss function to become non convex**
 
-True
+
 
 - **The loss function produces a numerical score that also depends on the set of the parameters which characterizes the FFN model**
 
-True
+
 
 - **The gradient can be estimated using a sample of training examples because is an expectation**
 
-True
+
 
 - **Regularization functions are added to the loss function to reduce their training error**
 
-False
+
 
 - **The sigmoid function**
 
@@ -136,7 +134,7 @@ False
 
 - **Rectified linear unit (ReLU) is proposed to speed up the learning convergence**
 
-True
+
 
 - **Advantages of the ReLU functions are**
 
@@ -274,7 +272,7 @@ The 4th answer could be true if we interpret "constant" as proportional to the w
 
 - **In machine learning the cost function to minimize during the training process is the performance measure P representing the number of correct classifications on the test set**
 
-False
+
 
 - **The final aim of Machine Learning is**
 
