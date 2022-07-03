@@ -47,11 +47,11 @@
 
 - **Algorithims for weight adjustement in a classification network are made to linearly separate the point belonging in the 2 classes**
 
-False
+
 
 - **Weight adjusstements are aimed at learning a good separation function**
 
-True
+
 
 - **Recurrent neural networks..**
 
