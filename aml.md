@@ -1,7 +1,3 @@
-% Advanced Machine Learning Q&A, 2021/2022
-% 
-%
-
 # 1 partial exam
 
 - **Which of these AI systems is based on hard-coded rules?**
@@ -41,7 +37,7 @@
 
     - [ ] Availability of large datasets
     - [ ] Network connectivity
-    - [ ] The implementation of backpropagation (la prof dice che è ambigua, potrebbe essere considerata vera)
+    - [ ] The implementation of backpropagation
     - [ ] Distributed representation
     - [ ] Availability of faster CPUs
 
@@ -294,7 +290,6 @@ The 4th answer could be true if we interpret "constant" as proportional to the w
     - [ ] has a standard error which decreases linearly with the number of samples used
     - [ ] it also depend on redundancies in sample data
 
-2nd answer is false because the error decreses with square root trend
 
 - **Ill conditioning of the Hessian matrix of the cost function**
 
@@ -302,7 +297,6 @@ The 4th answer could be true if we interpret "constant" as proportional to the w
     - [ ] can prevent the gradient to arrive to a critical point
     - [ ] can imply the very small steps are needed to decrease the cost function
 
-The third answer is ambiguous (as usual). Prof says it's true anyway.
 
 - **Local minima in deep learning problems**
 
